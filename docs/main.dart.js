@@ -84435,7 +84435,6 @@ s=q}while(true)switch(s){case 0:q=3
 n=null
 j=t.z
 m=new A.Ms(A.a([],t.s),A.t(j,j),"google.com")
-m.c=A.aw(["prompt","select_account"],j,j)
 j=o.cx
 j===$&&A.b()
 s=6
@@ -84523,6 +84522,9 @@ s=q}while(true)switch(s){case 0:q=3
 n=null
 j=t.z
 m=new A.LI(A.a([],t.s),A.t(j,j),"facebook.com")
+m.b.push("user_friends")
+m.b.push("email")
+m.b.push("user_likes")
 j=o.cx
 j===$&&A.b()
 s=6
