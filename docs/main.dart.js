@@ -26207,8 +26207,8 @@ aCG(){var s=t.B
 s=new A.LX(new A.aw(s),new A.aw(s),!1,!1)
 s.bL()
 $.eF.af()
-s.x="http://192.168.0.106:3020/api"
-s.x="http://192.168.0.106:3020/api/apps"
+s.x="https://multiapps-seven.vercel.app/api"
+s.x="https://multiapps-seven.vercel.app/api/apps"
 return s},
 LX:function LX(a,b,c,d){var _=this
 _.cx=_.CW=_.x=null
@@ -26624,8 +26624,8 @@ aBA(){var s=t.B
 s=new A.JV(new A.aw(s),new A.aw(s),!1,!1)
 s.bL()
 $.eF.af()
-s.x="http://192.168.0.106:3020/api"
-s.x="http://192.168.0.106:3020/api/config"
+s.x="https://multiapps-seven.vercel.app/api"
+s.x="https://multiapps-seven.vercel.app/api/config"
 return s},
 JV:function JV(a,b,c,d){var _=this
 _.cx=_.CW=_.x=null
@@ -86134,8 +86134,8 @@ l=t.B
 l=new A.L6(new A.aw(l),new A.aw(l),!1,!1)
 l.bL()
 $.eF.af()
-l.x="http://192.168.0.106:3020/api"
-l.x="http://192.168.0.106:3020/api/appsfeedback"
+l.x="https://multiapps-seven.vercel.app/api"
+l.x="https://multiapps-seven.vercel.app/api/appsfeedback"
 s=2
 return A.w(l.HG(i),$async$zI)
 case 2:return A.q(null,r)}})
@@ -86311,8 +86311,8 @@ while(true)switch(s){case 0:p=t.B
 p=new A.Jr(new A.aw(p),new A.aw(p),!1,!1)
 p.bL()
 $.eF.af()
-p.x="http://192.168.0.106:3020/api"
-p.x="http://192.168.0.106:3020/api/calendar"
+p.x="https://multiapps-seven.vercel.app/api"
+p.x="https://multiapps-seven.vercel.app/api/calendar"
 s=3
 return A.w(p.dJ(0,a),$async$cR)
 case 3:q=c
@@ -86391,8 +86391,8 @@ while(true)switch(s){case 0:p=t.B
 p=new A.JJ(new A.aw(p),new A.aw(p),!1,!1)
 p.bL()
 $.eF.af()
-p.x="http://192.168.0.106:3020/api"
-p.x="http://192.168.0.106:3020/api/clock"
+p.x="https://multiapps-seven.vercel.app/api"
+p.x="https://multiapps-seven.vercel.app/api/clock"
 s=3
 return A.w(p.dJ(0,a),$async$cR)
 case 3:q=c
@@ -86468,8 +86468,8 @@ while(true)switch(s){case 0:p=t.B
 p=new A.JO(new A.aw(p),new A.aw(p),!1,!1)
 p.bL()
 $.eF.af()
-p.x="http://192.168.0.106:3020/api"
-p.x="http://192.168.0.106:3020/api/coinscollection"
+p.x="https://multiapps-seven.vercel.app/api"
+p.x="https://multiapps-seven.vercel.app/api/coinscollection"
 s=3
 return A.w(p.dJ(0,a),$async$cR)
 case 3:q=c
@@ -86547,8 +86547,8 @@ while(true)switch(s){case 0:p=t.B
 p=new A.Kb(new A.aw(p),new A.aw(p),!1,!1)
 p.bL()
 $.eF.af()
-p.x="http://192.168.0.106:3020/api"
-p.x="http://192.168.0.106:3020/api/currency"
+p.x="https://multiapps-seven.vercel.app/api"
+p.x="https://multiapps-seven.vercel.app/api/currency"
 s=3
 return A.w(p.C0(a),$async$Au)
 case 3:q=c
@@ -86632,8 +86632,8 @@ while(true)switch(s){case 0:p=t.B
 p=new A.KJ(new A.aw(p),new A.aw(p),!1,!1)
 p.bL()
 $.eF.af()
-p.x="http://192.168.0.106:3020/api"
-p.x="http://192.168.0.106:3020/api/list"
+p.x="https://multiapps-seven.vercel.app/api"
+p.x="https://multiapps-seven.vercel.app/api/list"
 s=3
 return A.w(p.dJ(0,a),$async$cR)
 case 3:q=c
@@ -86738,8 +86738,8 @@ while(true)switch(s){case 0:p=t.B
 p=new A.KM(new A.aw(p),new A.aw(p),!1,!1)
 p.bL()
 $.eF.af()
-p.x="http://192.168.0.106:3020/api"
-p.x="http://192.168.0.106:3020/api/element"
+p.x="https://multiapps-seven.vercel.app/api"
+p.x="https://multiapps-seven.vercel.app/api/element"
 s=3
 return A.w(p.dJ(0,a),$async$cR)
 case 3:q=c
@@ -87041,8 +87041,8 @@ while(true)switch(s){case 0:p=t.B
 p=new A.OP(new A.aw(p),new A.aw(p),!1,!1)
 p.bL()
 $.eF.af()
-p.x="http://192.168.0.106:3020/api"
-p.x="http://192.168.0.106:3020/api/puzzles"
+p.x="https://multiapps-seven.vercel.app/api"
+p.x="https://multiapps-seven.vercel.app/api/puzzles"
 s=3
 return A.w(p.iS(0,a,b),$async$kk)
 case 3:q=d
@@ -87108,8 +87108,8 @@ while(true)switch(s){case 0:p=t.B
 p=new A.PN(new A.aw(p),new A.aw(p),!1,!1)
 p.bL()
 $.eF.af()
-p.x="http://192.168.0.106:3020/api"
-p.x="http://192.168.0.106:3020/api/scan"
+p.x="https://multiapps-seven.vercel.app/api"
+p.x="https://multiapps-seven.vercel.app/api/scan"
 s=3
 return A.w(p.dJ(0,a),$async$cR)
 case 3:q=c
@@ -87175,8 +87175,8 @@ p=t.B
 p=new A.S4(new A.aw(p),new A.aw(p),!1,!1)
 p.bL()
 $.eF.af()
-p.x="http://192.168.0.106:3020/api"
-p.x="http://192.168.0.106:3020/api/word"
+p.x="https://multiapps-seven.vercel.app/api"
+p.x="https://multiapps-seven.vercel.app/api/word"
 s=3
 return A.w(p.iS(0,a,b),$async$kk)
 case 3:n=d
@@ -87240,8 +87240,8 @@ n=t.B
 n=new A.MQ(new A.aw(n),new A.aw(n),!1,!1)
 n.bL()
 $.eF.af()
-n.x="http://192.168.0.106:3020/api"
-n.x="http://192.168.0.106:3020/api/appsmarkets"
+n.x="https://multiapps-seven.vercel.app/api"
+n.x="https://multiapps-seven.vercel.app/api/appsmarkets"
 k=B.b
 j=p
 s=2
@@ -87534,8 +87534,8 @@ n=t.B
 n=new A.OE(new A.aw(n),new A.aw(n),!1,!1)
 n.bL()
 $.eF.af()
-n.x="http://192.168.0.106:3020/api"
-n.x="http://192.168.0.106:3020/api/appsinfo"
+n.x="https://multiapps-seven.vercel.app/api"
+n.x="https://multiapps-seven.vercel.app/api/appsinfo"
 m=o.ax
 l=B.b
 k=p
@@ -87705,8 +87705,8 @@ n=t.B
 n=new A.PP(new A.aw(n),new A.aw(n),!1,!1)
 n.bL()
 $.eF.af()
-n.x="http://192.168.0.106:3020/api"
-n.x="http://192.168.0.106:3020/api/appsscreenshot"
+n.x="https://multiapps-seven.vercel.app/api"
+n.x="https://multiapps-seven.vercel.app/api/appsscreenshot"
 k=B.b
 j=p
 s=2
@@ -88046,7 +88046,7 @@ var $async$xe=A.u(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
 $.eF.af()
 s=7
-return A.w(A.aOd("http://192.168.0.106:3020/api"),$async$xe)
+return A.w(A.aOd("https://multiapps-seven.vercel.app/api"),$async$xe)
 case 7:m=b
 n.push(6)
 s=5
@@ -88281,8 +88281,8 @@ j=t.B
 j=new A.IO(new A.aw(j),new A.aw(j),!1,!1)
 j.bL()
 $.eF.af()
-j.x="http://192.168.0.106:3020/api"
-j.x="http://192.168.0.106:3020/api/appsload"
+j.x="https://multiapps-seven.vercel.app/api"
+j.x="https://multiapps-seven.vercel.app/api/appsload"
 s=15
 return A.w(j.Ac(o.ax),$async$qD)
 case 15:return A.q(null,r)
