@@ -3,13 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "094283c60577917ad9f74d0b169fdb2f",
-"assets/AssetManifest.json": "845109afd41bc432c300a059ae1f8123",
+const RESOURCES = {"assets/AssetManifest.bin": "381d36f80cad604060bd641c7f5f4516",
+"assets/AssetManifest.json": "753ab102ebf1de812c9d05d9772cedd8",
 "assets/FontManifest.json": "ab5946bed2d13b0adf4d044b3b3a0aea",
 "assets/fonts/MaterialIcons-Regular.otf": "f78ed4b84ff518b8327be3049b976cf4",
 "assets/fonts/MyFlutterApp.ttf": "7b8d067c89046274998b74fb8520c85c",
 "assets/images/icons/android10.png": "a191c83fa1573f2d800117eed7cd384f",
 "assets/images/icons/chrome-os.png": "27459c903573791a8c844050d7d2fd23",
+"assets/images/icons/flathub.png": "75b677c32e085e1732c6a67a66ee65f0",
 "assets/images/icons/ubunty.png": "3d84d3464d1b5b10802636649993a61e",
 "assets/images/icons/win10.png": "f50d3ccb7700e3e3855674373dce68c0",
 "assets/images/icons/win11.png": "5e635e765296bfe09aafca27adfd0ddc",
@@ -33,9 +34,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "094283c60577917ad9f74d0b169fdb2f
 "icons/Icon-512.png": "e882bfb8dea07cc3089b54923cd2684f",
 "icons/Icon-maskable-192.png": "a59fa9deb93a708848a2e478f38d0692",
 "icons/Icon-maskable-512.png": "e882bfb8dea07cc3089b54923cd2684f",
-"index.html": "29837e1b16dbbdb54dd2a9b42b2f1578",
-"/": "29837e1b16dbbdb54dd2a9b42b2f1578",
-"main.dart.js": "1c5da0725fb7c6c02a0034aa01c3def5",
+"index.html": "5cb1680e7e0ba8819188d02bf5fbb722",
+"/": "5cb1680e7e0ba8819188d02bf5fbb722",
+"main.dart.js": "290c98853516be0f2b49ebf864611c7f",
 "manifest.json": "c62d4ca0e528ff5d45897a94504b052f",
 "version.json": "c5bf9a9600508935abbe332e5a392606"};
 // The application shell files that are downloaded before a service worker can
